@@ -1,0 +1,4 @@
+This is a small sinatra app and associated configuartion tat will run
+on docker using nginx and unicorn.
+
+I'm just teaching myself how to deploy a trivial application to docker.
